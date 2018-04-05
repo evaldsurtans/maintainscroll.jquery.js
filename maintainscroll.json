@@ -1,11 +1,10 @@
 {
     "name": "maintainscroll",
-    "title": "jQuery Maintain Scroll",
-    "description": "Maintain & Keep scroll position after post-back & postback & refresh. Just include plugin (no need for cookies) before body tag",
+    "title": "Maintain Scroll JS Util",
+    "description": "Maintain & keep scroll position after post-back & postback & refresh. Just include the js file (no need for cookies)",
     "keywords": [
         "scroll",
-        "jquery",
-        "scrolling"      
+        "scrolling"
     ],
     "version": "0.1.1",
     "author": {
@@ -30,6 +29,5 @@
     "docs": "https://github.com/evaldsurtans/maintainscroll.jquery.js",
     "download": "http://code.jquery.com/#maintainscroll",
     "dependencies": {
-        "jquery": ">=1.5"
     }
 }
