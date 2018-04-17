@@ -1,1 +1,1 @@
-java -jar compiler.jar --js=maintainscroll.jquery.js --js_output_file=maintainscroll.jquery.min.js
+java -jar compiler.jar --js=maintainscroll.js --js_output_file=maintainscroll.min.js
